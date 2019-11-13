@@ -1,1 +1,3 @@
 https://github.com/search?l=Solidity&q=smart+contracts+chain&type=Repositories
+https://yeasy.gitbooks.io/blockchain_guide/content/07_ethereum/contract_example.html
+https://learnblockchain.cn/docs/solidity/introduction-to-smart-contracts.html
