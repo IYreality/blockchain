@@ -1,3 +1,6 @@
 https://github.com/search?l=Solidity&q=smart+contracts+chain&type=Repositories
 https://yeasy.gitbooks.io/blockchain_guide/content/07_ethereum/contract_example.html
 https://learnblockchain.cn/docs/solidity/introduction-to-smart-contracts.html
+https://fisco-bcos-doc.readthedocs.io/zh_CN/latest/using/web3sdk/
+https://juejin.im/post/5db3ebdae51d4529ed2918d9
+https://github.com/WeBankFinTech/WeBASE
