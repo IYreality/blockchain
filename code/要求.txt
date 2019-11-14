@@ -32,3 +32,12 @@ struct receipt {
 大作业的整体实现就是：写智能合约，部署到fisco的链上，然后写一个前端，前端通过各种SDK调用节点上的合约完成相关交易
 关于如何在前端用SDK调用智能合约刻意在微信群多问fisco平台的技术支持
 
+Function 1: Realize the purchase of goods - issue accounts receivable and trade on the chain. For example, a car company buys a batch of tires from a tire company.
+Sign the accounts receivable statement.
+Function 2: Realizing the transfer of accounts receivable, the tire company buys a wheel hub from the wheel hub company, it will be the car company
+The accounts receivable document is partially transferred to the hub company. Wheel companies can use this new document to finance or require car companies to
+Time to return the money.
+Function 3: Use the accounts receivable to finance the bank, all the supply chain can use the accounts receivable documents to apply to the bank
+Please raise funds.
+Function 4: Accounts receivable payment settlement is on the chain, the core enterprise pays the corresponding owed to the downstream enterprise when the accounts receivable document expires
+paragraph.
