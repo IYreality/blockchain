@@ -1,3 +1,5 @@
+https://github.com/search?utf8=%E2%9C%93&q=supply+language%3ASolidity&type=Repositories&ref=advsearch&l=Solidity&l=
+
 大作业的简单思路（可以参考最简单的投票智能合约）
 首先要声明一个企业和应收账款的数据结构，例如:
 struct company{
